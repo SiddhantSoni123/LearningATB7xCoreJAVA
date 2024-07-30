@@ -18,7 +18,7 @@ public class Lab139 {
         System.out.println(marks[0]);
         System.out.println(marks[1]);
         System.out.println(marks[2]);
-//        System.out.println(marks[10]); // AIOBE
+//        System.out.println(marks[10]); // AIOBE - ArrayIndexOutOfBoundsException
         boolean[] is_married = {true, false, true};
         // To Print
         for (int i = 0; i < marks.length; i++) {
