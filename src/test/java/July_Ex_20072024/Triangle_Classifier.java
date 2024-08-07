@@ -1,4 +1,4 @@
-package Ex_20072024;
+package July_Ex_20072024;
 
 public class Triangle_Classifier {
         public static void main(String[] args)

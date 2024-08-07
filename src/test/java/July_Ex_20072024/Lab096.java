@@ -1,4 +1,4 @@
-package Ex_20072024;
+package July_Ex_20072024;
 
 public class Lab096 {
     public static void main(String[] args) {
