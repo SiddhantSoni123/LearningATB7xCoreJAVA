@@ -1,4 +1,4 @@
-package Ex_27072024;
+package July_Ex_27072024;
 
 import java.util.Scanner;
 

@@ -1,6 +1,4 @@
-package Ex_27072024;
-
-import java.util.Arrays;
+package July_Ex_27072024;
 
 public class Lab147 {
     public static void main(String[] args) {
