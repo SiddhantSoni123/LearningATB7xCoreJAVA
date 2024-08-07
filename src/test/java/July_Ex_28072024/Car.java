@@ -1,4 +1,4 @@
-package Ex_28072024;
+package July_Ex_28072024;
 
 public class Car {
     // attribute, data member, instance variable, properties
